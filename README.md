@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Your Streak](https://img.shields.io/github/last-commit/AbubakarZorrain/commitIncrase?label=streak&logo=github)
+![Your Streak](https://img.shields.io/github/last-commit/AbubakarZorrain/Django-Basic?label=streak&logo=github)
 ![Your Contributions](https://github-readme-stats.vercel.app/api?username=AbubakarZorrain&show_icons=true&count_private=true&hide_title=true)
 
 <!--
