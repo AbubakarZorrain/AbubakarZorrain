@@ -3,7 +3,7 @@
 ![Your Contributions](https://github-readme-stats.vercel.app/api?username=AbubakarZorrain&show_icons=true&count_private=true&hide_title=true)
 
 
-**AbubakarZorrain** is a professional, Senior Web Developer with extensive experience developing enterprise software. I also have lots of development experience delivering awesome web services, back-end restful API endpoints. Having experience with a diverse range of technologies like Python, Django, Javascript, React, Node js,Express js ,Vue js and prides myself on my sophisticated, reusable, and customizable code. I focus on maintainability and accessibility in all of my products.
+**AbubakarZorrain** is a professional, Senior Web Developer with extensive experience developing enterprise software. Having lots of development experience delivering awesome web services, back-end REST APIs. Having experience with a diverse range of technologies like Python, Django, Javascript, React, Node js,Express js ,Vue js and prides myself on my sophisticated, reusable, and customizable code. I focus on maintainability and accessibility in all of my products.
 <!-- 
 Here are some ideas to get you started:
 
