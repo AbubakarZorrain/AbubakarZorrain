@@ -2,8 +2,8 @@
 ![Your Streak](https://img.shields.io/github/last-commit/AbubakarZorrain/Django-Basic?label=streak&logo=github)
 ![Your Contributions](https://github-readme-stats.vercel.app/api?username=AbubakarZorrain&show_icons=true&count_private=true&hide_title=true)
 
-<!--
-**AbubakarZorrain/AbubakarZorrain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+**AbubakarZorrain/AbubakarZorrain** is a professional, Senior Web Developer with extensive experience developing enterprise software. He also has lots of development experience delivering awesome web services, back-end restful API endpoints. He has experience with a diverse range of technologies like Python, Django,  Javascript, React, Node js,Express js ,Vue js and prides himself on his sophisticated, reusable, and customizable code. He focuses on maintainability and accessibility in all of his products.
 
 Here are some ideas to get you started:
 
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
