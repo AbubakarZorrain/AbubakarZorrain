@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![Your Streak](https://img.shields.io/github/last-commit/AbubakarZorrain/commitIncrase?label=streak&logo=github)
-![Your Contributions](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide_title=true)
+![Your Contributions](https://github-readme-stats.vercel.app/api?username=AbubakarZorrain&show_icons=true&count_private=true&hide_title=true)
 
 <!--
 **AbubakarZorrain/AbubakarZorrain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
