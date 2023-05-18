@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Your Streak](https://img.shields.io/github/last-commit/AbubakarZorrain/commitincreasey?label=streak&logo=github)
+![Your Streak](https://img.shields.io/github/last-commit/AbubakarZorrain/commitIncrase?label=streak&logo=github)
 
 <!--
 **AbubakarZorrain/AbubakarZorrain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
